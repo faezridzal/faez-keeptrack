@@ -1,3 +1,9 @@
+# Keeptrack Completed Lab by Faez Hasnan
+
+This project follows the lab series of [HandsOnReact](https://handsonreact.com/docs/labs/react-tutorial-typescript). Comprising of around 27 main lab exercises and 9 unit test exercises, it is a recommended material for anyone who would like to follow modern Javascript/Typescript development, using React as its framework.
+
+Typescript was used to implement the exercises.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -13,6 +19,11 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
+
+### `npm run api`
+
+Runs the backend service which is comsumed by the app.\
+You can query [http://localhost:4000/projects](http://localhost:4000/projects) to view the payload.
 
 ### `npm test`
 
